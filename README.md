@@ -1,3 +1,9 @@
+# WARNING #
+
+This repo is just a fork of the [KDE/kolourpaint](https://github.com/KDE/kolourpaint) repository. Intended to make this brilliant piece of marvel to work on Mac natively. I don't know a single bit of C++ at the time of forking this repositroy. But I know I'll make it work!
+
+# END WARNING #
+
 
 http://www.kolourpaint.org/
 
